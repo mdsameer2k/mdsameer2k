@@ -1,8 +1,7 @@
 <h1 align="center" style="font-size: 50px; color: #4CAF50; font-family: 'Arial', sans-serif;">Hi 👋, I'm <span style="font-family: 'Brush Script MT', cursive; color: #FF6347;">Mohamed Sameer A</span></h1>
 <h3 align="center" style="font-size: 30px; font-family: 'Arial', sans-serif; color: #333;">UI Developer (React JS)</h3>
 
-- This is my Portfolio: **[https://thamim2023.web.app/](https://thamim2023.web.app/)**
-- 👨‍💻 All of my projects are available at [mdsameer2k](https://github.com/mdsameer2k)
+- 👨‍💻 All of my projects are available at [mdsameer2k](https://github.com/mdsameer2k?tab=repositories)
 - 📫 How to reach me: **mdsameer13300@gmai.com**
 
 ---
