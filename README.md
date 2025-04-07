@@ -3,6 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [mdsameer2k](https://github.com/mdsameer2k?tab=repositories)
 - 📫 How to reach me: **mdsameer13300@gmai.com**
+- 💼 Connect with me on LinkedIn: https://www.linkedin.com/in/mohamed-sameer-7497b1211/
 
 ---
 
